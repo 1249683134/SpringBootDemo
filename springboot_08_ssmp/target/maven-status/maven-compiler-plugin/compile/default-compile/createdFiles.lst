@@ -1,0 +1,12 @@
+com\ba\service\BookService.class
+com\ba\config\MPconfig.class
+com\ba\controller\BookController.class
+com\ba\SSMPApplication.class
+com\ba\controller\utils\ProjectExceptionAdvice.class
+com\ba\controller\BookController2.class
+com\ba\service\impl\BookServiceImpl.class
+com\ba\dao\BookDao.class
+com\ba\service\IBookService.class
+com\ba\controller\utils\R.class
+com\ba\domain\Book.class
+com\ba\service\impl\BookServiceImpl2.class

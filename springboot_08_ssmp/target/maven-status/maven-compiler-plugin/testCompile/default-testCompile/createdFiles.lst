@@ -1,0 +1,4 @@
+com\ba\dao\BookDaoTest.class
+com\ba\SSMPApplicationTests.class
+com\ba\service\BookServiceTest.class
+com\ba\service\IBookServiceTest.class
